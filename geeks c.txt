@@ -1,0 +1,11 @@
+quicksort
+
+for (i=0; i < ar_size; i++)     
+        res = res ^ ar[i];
+      
+
+-> 5.c not understood merge function
+http://www.geeksforgeeks.org/merge-one-array-of-size-n-into-another-one-of-size-mn/
+
+not able to trace 9.c
+
